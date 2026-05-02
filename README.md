@@ -1,11 +1,5 @@
 # Predicción de Inflación en Argentina — Modelo SARIMA
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
-![pandas](https://img.shields.io/badge/pandas-2.x-150458?logo=pandas)
-![statsmodels](https://img.shields.io/badge/statsmodels-0.14-4c72b0)
-![Status](https://img.shields.io/badge/estado-completo-brightgreen)
-
----
 
 ## ¿De qué trata este proyecto?
 
