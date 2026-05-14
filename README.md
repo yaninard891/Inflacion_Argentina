@@ -1,5 +1,9 @@
 # Predicción de Inflación en Argentina — Modelo SARIMA
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 57be90fa62b370702b4a2ed65a8b432bc0093471
 ## ¿De qué trata este proyecto?
 
 Argentina tiene uno de los procesos inflacionarios más complejos del mundo. Este proyecto analiza la evolución del Índice de Precios al Consumidor (IPC) a nivel nacional desde diciembre de 2016 hasta marzo de 2026, y construye un modelo estadístico para proyectar la inflación mensual de los próximos 6 meses.
